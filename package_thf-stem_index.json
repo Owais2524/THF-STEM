@@ -1,0 +1,42 @@
+{
+  "packages": [
+    {
+      "name": "THF-STEM",
+      "maintainer": "Muhammad Owais",
+      "websiteURL": "https://github.com/Owais2524/THF-STEM",
+      "email": "muhammad.owais@hunarfoundation.org",
+      "help": {
+        "online": "https://hunarfoundation.org/emerging-technologies/"
+      },
+      "platforms": [
+        {
+          "name": "THF-STEM",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://hunarfoundation.org/emerging-technologies/"
+          },
+          "url": "https://github.com/Owais2524/THF-STEM/RIET-1.0.0.zip",
+          "archiveFileName": "RIET-1.0.0.zip",",
+          "checksum": "SHA-256:A0B7FDD3837ACB54F6E0A14F4EBE79028105E35A2B13C0A4B81F75FFC8A2319D",
+          "size": "10149",
+          "boards": [{ "name": "RAAS-V1" } ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
