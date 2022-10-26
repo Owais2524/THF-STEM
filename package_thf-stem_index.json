@@ -18,7 +18,7 @@
             "online": "https://hunarfoundation.org/emerging-technologies/"
           },
           "url": "https://github.com/Owais2524/THF-STEM/blob/main/RIET-1.0.0.zip?raw=true",
-          "archiveFileName": "RIET-1.0.0.zip",",
+          "archiveFileName": "RIET-1.0.0.zip",
           "checksum": "SHA-256:A0B7FDD3837ACB54F6E0A14F4EBE79028105E35A2B13C0A4B81F75FFC8A2319D",
           "size": "10149",
           "boards": [{ "name": "RAAS-V1" } ],
