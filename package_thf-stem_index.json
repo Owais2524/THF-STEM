@@ -20,7 +20,7 @@
           "url": "https://github.com/Owais2524/THF-STEM/blob/main/RIET-1.0.0.zip?raw=true",
           "archiveFileName": "RIET-1.0.0.zip",
           "checksum": "SHA-256:98C0D4735268591A6CA57EA235669F3022B5A50C7134A5F6804730A92F25EB5D",
-          "size": "10149",
+          "size": "10085",
           "boards": [{ "name": "RAAS-V1" } ],
           "toolsDependencies": [
             {
